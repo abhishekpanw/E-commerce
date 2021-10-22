@@ -1,0 +1,1 @@
+export const SET_CMS = 'SET_CMS'
